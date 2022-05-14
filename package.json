@@ -1,0 +1,15 @@
+{
+  "name": "gif-bot",
+  "version": "0.0.1",
+  "description": "GIF Library",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "kutsi#1000",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "orio.db": "^2.1.4"
+  }
+}
